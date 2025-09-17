@@ -1,4 +1,4 @@
-# DevOps Intern Assignment: Web Scraper & Server
+# DevOps Assignment: Web Scraper & Server
 
 A Dockerized application that scrapes a URL during build time and serves the content via a Flask server.
 
