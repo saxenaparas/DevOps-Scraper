@@ -64,3 +64,5 @@ The scraped data will be displayed in JSON format.
 - `package.json`: Node.js dependencies.
 
 - `requirements.txt`: Python dependencies.
+
+### 👨‍💻 Developed by **[Paras Saxena](https://saxenaparas.vercel.app/)**
