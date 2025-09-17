@@ -1,0 +1,9 @@
+{
+  "name": "devops-scraper",
+  "version": "1.0.0",
+  "description": "URL scraper with Puppeteer",
+  "main": "scrape.js",
+  "dependencies": {
+    "puppeteer-core": "^21.0.0"
+  }
+}
