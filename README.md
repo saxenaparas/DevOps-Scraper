@@ -65,4 +65,6 @@ The scraped data will be displayed in JSON format.
 
 - `requirements.txt`: Python dependencies.
 
-### 👨‍💻 Developed by **[Paras Saxena](https://saxenaparas.vercel.app/)**
+---
+
+#### 👨‍💻 Developed by **[Paras Saxena](https://saxenaparas.vercel.app/)**
